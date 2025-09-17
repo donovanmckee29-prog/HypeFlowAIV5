@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/donovanmckee29-prog/hypeflowaiv5/issues"
   },
-  "homepage": "https://github.com/donovanmckee29-prog/hypeflowaiv5#readme",
+  "homepage": ".",
   "dependencies": {
     "lucide-react": "^0.544.0",
     "react": "^19.1.1",
